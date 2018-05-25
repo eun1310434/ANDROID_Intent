@@ -1,3 +1,19 @@
+/*=====================================================================
+□ Infomation
+  ○ Data : 21.05.2018
+  ○ Mail : eun1310434@naver.com
+  ○ Blog : https://blog.naver.com/eun1310434
+  ○ Reference : Do it android app Programming
+
+□ Function
+  ○ android:theme="@style/Theme.AppCompat.Dialog"> 를 사용하여 안내창이 뜸
+
+□ Study
+  ○ Intent
+     - An Intent provides a facility for performing late runtime binding between the code in different applications.
+       Its most significant use is in the launching of activities, where it can be thought of as the glue between activities.
+       It is basically a passive data structure holding an abstract description of an action to be performed.
+=====================================================================*/
 package com.eun1310434.intent;
 
 import android.content.Intent;
