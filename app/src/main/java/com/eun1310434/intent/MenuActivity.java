@@ -1,9 +1,10 @@
 /*=====================================================================
 □ Infomation
-  ○ Data : 21.05.2018
+  ○ Data : 25.05.2018
   ○ Mail : eun1310434@naver.com
   ○ Blog : https://blog.naver.com/eun1310434
   ○ Reference : Do it android app Programming
+
 
 □ Function
   ○ android:theme="@style/Theme.AppCompat.Dialog"> 를 사용하여 안내창이 뜸
